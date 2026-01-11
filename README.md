@@ -13,6 +13,8 @@ I am not `responsible` for the possibility of an account being `banned`!
 ## 📎 Node cli version Script features
 
 - Auto task
+- Auto bind email
+- Auto checkin onchain
 - Auto create post
 - Auto swap points => GRISE
 - Auto faucet
